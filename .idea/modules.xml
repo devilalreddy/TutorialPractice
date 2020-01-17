@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TutorialPractice.iml" filepath="$PROJECT_DIR$/.idea/TutorialPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/allbasics.iml" filepath="$PROJECT_DIR$/.idea/modules/allbasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/allbasics.main.iml" filepath="$PROJECT_DIR$/.idea/modules/allbasics.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/allbasics.test.iml" filepath="$PROJECT_DIR$/.idea/modules/allbasics.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interept.iml" filepath="$PROJECT_DIR$/.idea/modules/interept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interept.main.iml" filepath="$PROJECT_DIR$/.idea/modules/interept.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interept.test.iml" filepath="$PROJECT_DIR$/.idea/modules/interept.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singletonpractice.iml" filepath="$PROJECT_DIR$/.idea/modules/singletonpractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singletonpractice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/singletonpractice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singletonpractice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/singletonpractice.test.iml" />
+    </modules>
+  </component>
+</project>

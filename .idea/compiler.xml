@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="allbasics.main" target="1.8" />
+      <module name="allbasics.test" target="1.8" />
+      <module name="interept.main" target="1.8" />
+      <module name="interept.test" target="1.8" />
+      <module name="singletonpractice.main" target="1.8" />
+      <module name="singletonpractice.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

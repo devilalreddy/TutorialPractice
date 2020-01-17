@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af95b4b8-174b-4c86-bac0-15ee8914729a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/AnonymousInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/innerouter/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/nestedInterface/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/nestedInterface/OuterInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/funtionalInterface/FunctionalInterfaceAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/funtionalInterface/FunctionalInterfaceAnnotationInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/funtionalInterface/FunctionalInterfaceBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/funtionalInterface/PredicateInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/markerInterface/clonable/CloneableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/markerInterface/clonable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/markerInterface/serilizable/MainSerializableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/markerInterface/serilizable/SerializableTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/allbasics">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/interept">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/programs">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/singletonpractice">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/programs">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules/allbasics.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/allbasics.test.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/allbasics.main.iml" />
+        <option value="$PROJECT_DIR$/.idea/dictionaries/devilalpolice.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WNubXf0RyG79JrV3HC3wvf1Jjw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="jdk.selected.JAVA_MODULE" value="11.0.3" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35441175" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PredicateInterfaceExample">
+    <configuration name="FunctionalInterfaceAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="funtionalInterface.FunctionalInterfaceAnnotation" />
+      <module name="allbasics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funtionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfaceBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="funtionalInterface.FunctionalInterfaceBasics" />
+      <module name="allbasics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funtionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="markerInterface.clonable.Main" />
+      <module name="allbasics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="markerInterface.clonable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSerializableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="markerInterface.serilizable.MainSerializableTest" />
+      <module name="allbasics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="markerInterface.serilizable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateInterfaceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="funtionalInterface.PredicateInterfaceExample" />
+      <module name="allbasics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="funtionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PredicateInterfaceExample" />
+        <item itemvalue="Application.FunctionalInterfaceAnnotation" />
+        <item itemvalue="Application.FunctionalInterfaceBasics" />
+        <item itemvalue="Application.MainSerializableTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af95b4b8-174b-4c86-bac0-15ee8914729a" name="Default Changelist" comment="" />
+      <created>1579002445790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579002445790</updated>
+    </task>
+    <task id="LOCAL-00001" summary="practice">
+      <created>1579179797841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579179797841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/innerouter/Outer.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
