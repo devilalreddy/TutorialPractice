@@ -2,19 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af95b4b8-174b-4c86-bac0-15ee8914729a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/AnonymousInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/innerouter/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/nestedInterface/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/nestedInterface/OuterInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/funtionalInterface/FunctionalInterfaceAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/funtionalInterface/FunctionalInterfaceAnnotationInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/funtionalInterface/FunctionalInterfaceBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/funtionalInterface/PredicateInterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/markerInterface/clonable/CloneableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/markerInterface/clonable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/markerInterface/serilizable/MainSerializableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/markerInterface/serilizable/SerializableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/AnonymousInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/AnonymousInterfaceTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/LocalInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/InnerClasses/StaticNonStaticInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/chainedException/ChainedExceptionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/compartor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/compartor/StudentPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/nestedinterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/nestedinterface/NestedInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/nestedinterface/NestedInterfaceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/nestedinterface/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allbasics/src/main/java/sorting/SortingPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/allbasics.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/allbasics.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/allbasics/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allbasics/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/allbasics/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,24 +79,15 @@
       </set>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules/allbasics.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/allbasics.test.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/allbasics.main.iml" />
-        <option value="$PROJECT_DIR$/.idea/dictionaries/devilalpolice.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1WNubXf0RyG79JrV3HC3wvf1Jjw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11.0.3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -108,13 +108,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PredicateInterfaceExample">
-    <configuration name="FunctionalInterfaceAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funtionalInterface.FunctionalInterfaceAnnotation" />
+  <component name="RunManager" selected="Application.SortingPractice">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nestedinterface.A" />
       <module name="allbasics.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="funtionalInterface.*" />
+          <option name="PATTERN" value="nestedinterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +122,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionalInterfaceBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funtionalInterface.FunctionalInterfaceBasics" />
+    <configuration name="ChainedExceptionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chainedException.ChainedExceptionMain" />
       <module name="allbasics.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="funtionalInterface.*" />
+          <option name="PATTERN" value="chainedException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compartor.Main" />
+      <module name="allbasics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compartor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +149,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="markerInterface.clonable.Main" />
+      <option name="MAIN_CLASS_NAME" value="nestedinterface.Main" />
       <module name="allbasics.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="markerInterface.clonable.*" />
+          <option name="PATTERN" value="nestedinterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,25 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainSerializableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="markerInterface.serilizable.MainSerializableTest" />
+    <configuration name="SortingPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.SortingPractice" />
       <module name="allbasics.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="markerInterface.serilizable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PredicateInterfaceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funtionalInterface.PredicateInterfaceExample" />
-      <module name="allbasics.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="funtionalInterface.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PredicateInterfaceExample" />
-        <item itemvalue="Application.FunctionalInterfaceAnnotation" />
-        <item itemvalue="Application.FunctionalInterfaceBasics" />
-        <item itemvalue="Application.MainSerializableTest" />
+        <item itemvalue="Application.SortingPractice" />
+        <item itemvalue="Application.ChainedExceptionMain" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.A" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579179797841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="practice">
+      <created>1579293462700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579293462700</updated>
+    </task>
+    <task id="LOCAL-00003" summary="practice">
+      <created>1579293495933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579293495933</updated>
+    </task>
+    <task id="LOCAL-00004" summary="practice">
+      <created>1579293505679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579293505679</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
