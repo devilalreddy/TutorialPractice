@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af95b4b8-174b-4c86-bac0-15ee8914729a" name="Default Changelist" comment="" />
+    <list default="true" id="af95b4b8-174b-4c86-bac0-15ee8914729a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,7 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -88,13 +91,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortingPractice">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nestedinterface.A" />
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="ChainedExceptionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chainedException.ChainedExceptionMain" />
       <module name="allbasics.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nestedinterface.*" />
+          <option name="PATTERN" value="chainedException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChainedExceptionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chainedException.ChainedExceptionMain" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.FizzBuzz" />
       <module name="allbasics.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chainedException.*" />
+          <option name="PATTERN" value="algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.SortingPractice" />
         <item itemvalue="Application.ChainedExceptionMain" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.A" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580165803813</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="workspace">
+      <created>1584515030175</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584515030175</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +245,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
